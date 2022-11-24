@@ -18,6 +18,7 @@ Lenguaje de Programación:
 - Markdown
 - Pascal
 - PHP
+- [Apuntes PHP ASO](https://github.com/WiWagner8462/PHP#readme "Apuntes PHP ASO")
 - Perl
 - PowerShell
 - R
