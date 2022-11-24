@@ -1,5 +1,4 @@
-;; Esto es una intrucción muy básica a Hy, como la del siguiente enlace
-;; http://try-hy.appspot.com
+;; Esto es una intrucción muy básica a Hy
 ;;
 ; Comentarios usando punto y coma, como en otros LISPS
 
